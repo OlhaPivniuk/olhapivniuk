@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Olha</h1>
 <h3 align="center">A passionate QA Automation professional from Ukraine</h3>
 
